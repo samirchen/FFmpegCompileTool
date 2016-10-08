@@ -1,0 +1,3 @@
+[submodule "gas-preprocessor"]
+    path = compile-ffmpeg-for-ios/extra/gas-preprocessor
+    url = https://github.com/samirchen/gas-preprocessor.git
